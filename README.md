@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ResulHalit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Python, JavaScript
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+resulhalit@gmail.com
+https://www.linkedin.com/in/resul-halit-026186238/
 
 <!---
 ResulHalit/ResulHalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
