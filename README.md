@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, JavaScript
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me: 
 - via mail: resulhalit@gmail.com
 - via LinkedIn: https://www.linkedin.com/in/resul-halit-026186238/
 
